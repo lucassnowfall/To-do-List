@@ -1,0 +1,23 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassnowfall/To-do-List.git"
+  },
+  "keywords": [
+    "to-do",
+    "list"
+  ],
+  "author": "Lucas S & Angela Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucassnowfall/To-do-List/issues"
+  },
+  "homepage": "https://github.com/lucassnowfall/To-do-List#readme"
+}
